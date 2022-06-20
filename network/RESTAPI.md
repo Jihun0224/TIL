@@ -14,7 +14,7 @@
 HTTP Method(POST, GET, PUT, DELETE)를 통해 해당 자원에 대한 CURD Operation을 적용하는 것을 의미한다.
 <center>
 
-![image](https://user-images.githubusercontent.com/59672592/174579473-74191abb-d4fc-48d4-86d5-fa9a26464941.png)
+![image](https://user-images.githubusercontent.com/59672592/174581277-310f9cd1-1dac-4e81-982e-7a9f5fa47c26.png)
 
 </center>
 
