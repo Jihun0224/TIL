@@ -12,3 +12,5 @@ A collection of concise write-ups on small things I learn day to day across a va
 - [JWT(JSON Web Token)](/web/jwt.md)
 ### Network
 - [REST API](/network/RESTAPI.md)
+### Hadoop
+- [Hadoop](/hadoop/hadoop.md)
